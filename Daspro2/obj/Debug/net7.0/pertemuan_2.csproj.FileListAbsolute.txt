@@ -1,0 +1,28 @@
+D:\Kuliah\daspro\pertemuan_2\bin\Debug\net7.0\pertemuan_2.exe
+D:\Kuliah\daspro\pertemuan_2\bin\Debug\net7.0\pertemuan_2.deps.json
+D:\Kuliah\daspro\pertemuan_2\bin\Debug\net7.0\pertemuan_2.runtimeconfig.json
+D:\Kuliah\daspro\pertemuan_2\bin\Debug\net7.0\pertemuan_2.dll
+D:\Kuliah\daspro\pertemuan_2\bin\Debug\net7.0\pertemuan_2.pdb
+D:\Kuliah\daspro\pertemuan_2\obj\Debug\net7.0\pertemuan_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\daspro\pertemuan_2\obj\Debug\net7.0\pertemuan_2.AssemblyInfoInputs.cache
+D:\Kuliah\daspro\pertemuan_2\obj\Debug\net7.0\pertemuan_2.AssemblyInfo.cs
+D:\Kuliah\daspro\pertemuan_2\obj\Debug\net7.0\pertemuan_2.csproj.CoreCompileInputs.cache
+D:\Kuliah\daspro\pertemuan_2\obj\Debug\net7.0\pertemuan_2.dll
+D:\Kuliah\daspro\pertemuan_2\obj\Debug\net7.0\refint\pertemuan_2.dll
+D:\Kuliah\daspro\pertemuan_2\obj\Debug\net7.0\pertemuan_2.pdb
+D:\Kuliah\daspro\pertemuan_2\obj\Debug\net7.0\pertemuan_2.genruntimeconfig.cache
+D:\Kuliah\daspro\pertemuan_2\obj\Debug\net7.0\ref\pertemuan_2.dll
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 2\Daspro2\bin\Debug\net7.0\pertemuan_2.exe
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 2\Daspro2\bin\Debug\net7.0\pertemuan_2.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 2\Daspro2\bin\Debug\net7.0\pertemuan_2.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 2\Daspro2\bin\Debug\net7.0\pertemuan_2.dll
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 2\Daspro2\bin\Debug\net7.0\pertemuan_2.pdb
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 2\Daspro2\obj\Debug\net7.0\pertemuan_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 2\Daspro2\obj\Debug\net7.0\pertemuan_2.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 2\Daspro2\obj\Debug\net7.0\pertemuan_2.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 2\Daspro2\obj\Debug\net7.0\pertemuan_2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 2\Daspro2\obj\Debug\net7.0\pertemuan_2.dll
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 2\Daspro2\obj\Debug\net7.0\refint\pertemuan_2.dll
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 2\Daspro2\obj\Debug\net7.0\pertemuan_2.pdb
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 2\Daspro2\obj\Debug\net7.0\pertemuan_2.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 2\Daspro2\obj\Debug\net7.0\ref\pertemuan_2.dll
